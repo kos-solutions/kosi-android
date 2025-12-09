@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KOSI" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Compose se ocupă de culori și restul stilizării -->
+    </style>
+</resources>
